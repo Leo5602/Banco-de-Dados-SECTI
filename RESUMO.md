@@ -331,7 +331,7 @@ DQL é usada para retornar dados, seguindo condições específicas, permitindo 
 
 ## Resumo:
 
-**O que são Bancos de Dados, SGBDs e SQL:** *Banco de dados* é onde guarda os dados; *SGBDs* são ferramentas que permitem gerenciar interações com o banco a partir de *SQL*, uma linguagem de gerenciamento.
+**O que são Bancos de Dados, SGBDs e SQL:** *Banco de dados* é onde guarda os dados; *SGBDs* são interpretadores de código *SQL*, uma linguagem para BD's relacionais.
 
 ### **DDL**:
 
