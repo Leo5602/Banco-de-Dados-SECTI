@@ -277,7 +277,7 @@ DQL é usada para retornar dados, seguindo condições específicas, permitindo 
 	* `SUM()` -> retorna a soma de todos os valores de uma coluna numérica.
 	
 		```
-		SELECT SUM[coluna]
+		SELECT SUM([coluna])
 		FROM [tabela]
 		WHERE [condição];
 		```
